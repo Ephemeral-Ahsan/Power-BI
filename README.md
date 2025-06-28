@@ -8,6 +8,5 @@ See the full dashbaords of the attached images in this repositories:
 
 
 
-
-[![HR Dashboard Preview](images/HR Dashboard.png)](https://app.powerbi.com/reportEmbed?reportId=af7f2537-710d-4ba5-90c4-f546a71ce906&autoAuth=true&ctid=e403a45e-3769-4a22-a9d3-7fa149e101a5)
+![HR Dashboard](HR%20Dashboard.png)
 
